@@ -1,6 +1,19 @@
+<div align="center">
+
 # JobFlow for Codex
 
-[简体中文](README.md) | English
+A local Codex workflow for job screening, recruiter messages, application ledgers, and daily reports.
+
+[简体中文](README.md) | [English](README.en.md)
+
+[![Codex Workflow](https://img.shields.io/badge/Codex-Workflow-111827)](#)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB)](#prerequisites)
+[![Windows Tested](https://img.shields.io/badge/Windows-tested-0078D4)](#compatibility)
+[![License MIT](https://img.shields.io/badge/License-MIT-3DA639)](LICENSE)
+
+</div>
+
+---
 
 JobFlow for Codex is a local job-search workflow for Codex. It organizes job discovery, screening, recruiter contact, message review, resume sending, progress tracking, and daily reports into reusable templates, scripts, and Codex skill instructions.
 
@@ -167,3 +180,23 @@ More platforms can be added later through new references and workflow rules.
 - Does not guarantee job-search outcomes.
 - Platform UI changes may require workflow updates.
 - Complex recruiter messages still require user judgment.
+
+## Acknowledgements
+
+- Thanks to OpenAI Codex for enabling local agent workflows.
+- Thanks to job platforms such as BOSS Direct and Liepin for providing job-search and recruiter communication services.
+- The README presentation style is inspired by open-source projects such as [CoCo Downloader](https://github.com/markcxx/coco-downloader).
+
+## Disclaimer
+
+1. This project is for personal job-search productivity, learning, and technical research only. It is not a platform bypass tool or bulk-application bot.
+2. Users are responsible for following local laws, platform terms of service, and account safety rules.
+3. This project does not bypass CAPTCHA, login, risk controls, safety confirmations, or platform restrictions.
+4. This project does not guarantee screening accuracy, message classification accuracy, application outcomes, or interview opportunities.
+5. Users should review automation prompts, screening rules, message handling results, and resume content before relying on them.
+6. This project is not officially affiliated with, authorized by, or endorsed by BOSS Direct, Liepin, OpenAI, or other third-party platforms or companies.
+7. If any project content affects your rights, please contact the maintainers through GitHub Issues.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
