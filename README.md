@@ -1,6 +1,19 @@
+<div align="center">
+
 # 求职流 JobFlow for Codex
 
-简体中文 | [English](README.en.md)
+一套面向 Codex 的本地求职工作流：筛选岗位、跟进消息、维护台账、生成日报。
+
+[简体中文](README.md) | [English](README.en.md)
+
+[![Codex Workflow](https://img.shields.io/badge/Codex-Workflow-111827)](#)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB)](#前置条件)
+[![Windows Tested](https://img.shields.io/badge/Windows-tested-0078D4)](#兼容性说明)
+[![License MIT](https://img.shields.io/badge/License-MIT-3DA639)](LICENSE)
+
+</div>
+
+---
 
 求职流 JobFlow for Codex 是一套给 Codex 使用的本地求职工作流。它把“找岗位、按规则筛选、打招呼、看消息、发简历、记录进度、生成日报”整理成可复用的流程、模板和脚本。
 
@@ -169,3 +182,23 @@ skills/
 - 不能保证投递结果。
 - 招聘网站页面变化后，可能需要更新平台操作规则。
 - 复杂消息仍需要用户自己判断。
+
+## 致谢
+
+- 感谢 OpenAI Codex 提供本地智能体工作流能力。
+- 感谢 BOSS 直聘、猎聘等招聘平台提供职位搜索和招聘沟通服务。
+- README 展示结构参考了 [CoCo Downloader](https://github.com/markcxx/coco-downloader) 等开源项目的写法。
+
+## 免责声明
+
+1. 本项目仅用于个人求职效率管理、学习和技术研究，不是招聘平台外挂或批量投递工具。
+2. 使用者应自行遵守所在地法律法规、招聘平台服务条款和账号安全规则。
+3. 本项目不会绕过验证码、登录、风控、安全确认或平台限制。
+4. 本项目不保证岗位匹配准确性、消息判断准确性、投递结果或面试机会。
+5. 使用者应自行审核自动化 prompt、筛选规则、消息处理结果和发送的简历内容。
+6. 本项目与 BOSS 直聘、猎聘、OpenAI 等第三方平台或公司没有官方从属、授权或背书关系。
+7. 如发现项目内容影响了你的权益，请通过 GitHub Issues 联系处理。
+
+## 许可证
+
+本项目使用 MIT License，详见 [LICENSE](LICENSE)。
