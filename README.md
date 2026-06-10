@@ -186,6 +186,7 @@ skills/
 ## 致谢
 
 - 感谢 OpenAI Codex 提供本地智能体工作流能力。
+- 感谢 [Linux.do](https://linux.do/) 社区提供交流、反馈与支持。
 - 感谢 BOSS 直聘、猎聘等招聘平台提供职位搜索和招聘沟通服务。
 - README 展示结构参考了 [CoCo Downloader](https://github.com/markcxx/coco-downloader) 等开源项目的写法。
 
