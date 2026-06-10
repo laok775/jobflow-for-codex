@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# JobFlow private runtime data
+data/job_search/
+.jobflow/
+applications.jsonl
+user_profile.yaml
+screening_rules.local.md
+automation_prompt.local.md
+reports/
+logs/
+
+# Personal documents and resumes
+*.pdf
+*.doc
+*.docx
+*.rtf
+
+# Browser/account/session artifacts
+cookies.*
+*.cookies
+session.*
+*.session
+*.har
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
