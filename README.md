@@ -31,6 +31,10 @@ It is designed for users who want Codex to assist with repetitive job-search wor
 - Local resume file paths configured if you want resume sending support.
 - Reviewed automation prompts if you want scheduled runs.
 
+## Compatibility
+
+This project has only been self-tested on Windows with local Codex workflows. Other operating systems, browser-control setups, or automation modes may work, but you should verify and adapt them yourself.
+
 ## Project Contents
 
 ```text
