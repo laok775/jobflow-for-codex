@@ -1,0 +1,22 @@
+{
+  "name": "jobflow-for-codex",
+  "version": "0.1.0",
+  "description": "A local job-search workflow plugin for Codex with screening rules, ledgers, reports, and automation prompts.",
+  "author": {
+    "name": "JobFlow contributors"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "JobFlow for Codex",
+    "shortDescription": "Run a browser-assisted job-search workflow with local records and reports.",
+    "longDescription": "JobFlow for Codex packages a reusable job-search assistant workflow. It helps initialize private job-search data, apply screening rules, maintain a local JSONL ledger, generate daily reports, and build reviewed automation prompts while keeping user judgment and platform safety checks in the loop.",
+    "developerName": "JobFlow contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Local workflow templates",
+      "Job-search ledger validation",
+      "Daily job-search reporting"
+    ],
+    "defaultPrompt": "Help me initialize and run JobFlow for my job search."
+  }
+}
