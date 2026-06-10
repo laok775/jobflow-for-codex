@@ -184,6 +184,7 @@ More platforms can be added later through new references and workflow rules.
 ## Acknowledgements
 
 - Thanks to OpenAI Codex for enabling local agent workflows.
+- Thanks to the [Linux.do](https://linux.do/) community for discussion, feedback, and support.
 - Thanks to job platforms such as BOSS Direct and Liepin for providing job-search and recruiter communication services.
 - The README presentation style is inspired by open-source projects such as [CoCo Downloader](https://github.com/markcxx/coco-downloader).
 
